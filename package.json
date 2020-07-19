@@ -1,0 +1,17 @@
+{
+  "name": "file-upload-local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Brijesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "file-type": "^5.2.0",
+    "multer": "^1.3.0"
+  }
+}
